@@ -78,7 +78,7 @@ Sur cette page, les clients peuvent voir l'historique de leurs commandes passée
 
 **admin_produits**
 
-C'est la page où l'administrateur peut ajouter de nouveaux livres à la base de données de la librairie en ligne.
+C'est la page où l'administrateur peut ajouter de nouveaux livres à la base de données de la librairie en ligne
 
 ![client-products](https://github.com/exaucee2/librairie/assets/115640641/ec13dcfa-c493-4b69-81f6-14dcae3dc138)
 
